@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 import plotly.express as px 
 import joblib
-from sklearn.linear_model import LinearRegression
 
 
 st.title('Car prices prediction App')
